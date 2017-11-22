@@ -1,6 +1,6 @@
 把[http://bkjws.sdu.edu.cn/](http://bkjws.sdu.edu.cn/)的课表转换为ics标准
 
-使用方法:访问[http://www.trim21.cn:4080/](http://www.trim21.cn:4080/)
+使用方法:访问[http://www.trim21.cn:4080/](http://www.trim21.cn/)
 
 ios用户在输入学号密码之后将事件添加到日历
  
